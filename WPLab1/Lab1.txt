@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang=en>
+ <head>
+   <title>FIRST ASSIGNMENT </title>
+ </head>
+
+<body>
+
+<h1>NIKA SINGLETARY INTRODUCTION</h1>
+  
+
+<p>My name is Nika Singletary and I live in Atlanta, GA. I am taking this class as a way of getting closer to my goal of being in the IT field. I have always been interested in computers and coding. My goal after graduating from Tri-C is to get a job as a Full Stack Web Developer or a Software Developer.</p>
+
+<p>A dream of mine is to sail around the world. A goal of mine is to own at least 25 properties.</p>
+
+<img src="C:\WPLab1\Avatar.jpg" alt="Nika's Avatar" style="width:462px;height:442px;">
+
+<br>
+<br>
+
+<a href="https://en.wikipedia.org/wiki/The_Hum">This is a link to my favorite wikipedia page: "The Hum"</a>
+
+
+</body>
+</html>
